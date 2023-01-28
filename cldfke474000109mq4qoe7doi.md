@@ -2,7 +2,7 @@
 
 **Complete understanding of a web server and how can you use it and how it used to work in the previous era of the internet.**
 
-**Web server:** In layman**,** the language web server is a computer that stores, processes and delivers files(It could be any kind of file like image, audio, video etc.) Web servers consist of both Hardware and Software that is used to give response to the internet user who requested to fetch some data(it could be any kind of data).
+**Web server:** In layman\*\*,\*\* the language web server is a computer that stores, processes and delivers files(It could be any kind of file like image, audio, video etc.) Web servers consist of both Hardware and Software that is used to give response to the internet user who requested to fetch some data(it could be any kind of data).
 
 This is not the only part that you should consider there is a server **Software section** of the web server where things are happening this part is control the flow of the webpage, How the user can access the webpage how much will be the loading time for the webpage etc. Theoretically, this is an HTTP server. Now you might be thinking what is HTTP this is not other than some protocols uses by browsers to view your webpages created by the developer.
 
@@ -10,7 +10,7 @@ This is not the only part that you should consider there is a server **Software 
 
 we can access this HTTP server by using the domain name more specifically an IP address.
 
-Do you know what is the most famous HTTP server? **\-&gt;** *Apache2*
+**Do you know what is the most famous HTTP server?** **\-&gt;** *Apache2*
 
 though there are more web server ***Apache Tomcat ,*** ***Nginx*** *etc.* But Apache2 is the oldest one and according to the data, 67% of the internet is using **apache2** webserver.
 
