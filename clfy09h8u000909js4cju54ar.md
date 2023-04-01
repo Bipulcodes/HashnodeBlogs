@@ -1,10 +1,11 @@
 ---
 title: "Be selective"
-seoTitle: "css selectors"
+seoTitle: "Selectors Who selects"
 datePublished: Sat Apr 01 2023 13:24:33 GMT+0000 (Coordinated Universal Time)
 cuid: clfy09h8u000909js4cju54ar
 slug: selectors
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680355759621/00cff93e-d8ba-4df6-a57c-737cbad97a6d.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680355927610/bd26c4e7-bf21-4c70-a06e-95a1d9e1834e.jpeg
 tags: javascript, web-development, ineuron, hiteshchoudharylco, anuragtiwarime
 
 ---
