@@ -1,5 +1,5 @@
 ---
-title: "Be selective"
+title: "CSS Selectors and how it works and how to use them efficiently."
 seoTitle: "Selectors Who selects"
 datePublished: Sat Apr 01 2023 13:24:33 GMT+0000 (Coordinated Universal Time)
 cuid: clfy09h8u000909js4cju54ar
